@@ -38,8 +38,8 @@ This project involves analyzing the website [dev-tools.alx-tools.com](https://de
 | 27-missing_attr                | Letter indicating the missing attribute on all links with target _blank.             |
 | 28-unclear_desc.png           | Screenshot showing which <a> links don’t have enough text description.               |
 | 29-how_many_colors.png        | Screenshot of the console result after running the allcolors.js snippet.             |
-| 30-no_css.png                  | Screenshot taken after blocking all CSS requests on the page. Repo: GitHub repository: alx-frontend, Directory: 0x01-developer_tools |
-| 31-session_storage_key          | Document the only key present in the session storage for the page. Repo: GitHub repository: alx-frontend, Directory: 0x01-developer_tools |
-| 32-service_workers              | Indicate whether the page has any service workers. Answer: Yes or No. Repo: GitHub repository: alx-frontend, Directory: 0x01-developer_tools |
-| 33-ssl_cert                    | Identify the organization that issued the SSL certificate for the page. Repo: GitHub repository: alx-frontend, Directory: 0x01-developer_tools |
-| 34-ssl_expiration.png          | Screenshot showing the expiration date of the SSL certificate. Repo: GitHub repository: alx-frontend, Directory: 0x01-developer_tools |
+| 30-no_css.png                  | Screenshot taken after blocking all CSS requests on the page. |
+| 31-session_storage_key          | Document the only key present in the session storage for the page. |
+| 32-service_workers              | Indicate whether the page has any service workers. |
+| 33-ssl_cert                    | Identify the organization that issued the SSL certificate for the page. |
+| 34-ssl_expiration.png          | Screenshot showing the expiration date of the SSL certificate. |
