@@ -194,6 +194,14 @@ ul.row {
     background-color: var(--color-black);
 }
 
+.social-link {
+    display: block;
+}
+
+.social-link svg {
+    fill: var(--text-color);
+}
+
 .container {
     width: 960px;
     margin-left: auto;
@@ -216,12 +224,4 @@ ul.row {
 
 .footer-adress {
     color: var(--text-color);
-}
-
-.social-link {
-    display: block;
-}
-
-.social-link svg {
-    fill: var(--text-color);
 }
